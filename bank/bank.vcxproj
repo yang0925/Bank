@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="소스1.cpp" />
     <ClCompile Include="소스3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
